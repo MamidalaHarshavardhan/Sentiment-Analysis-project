@@ -13,22 +13,25 @@ Visualization: Visualizing the results and performance metrics.\
 
 **Directory Structure**
 arduino
+
 Copy code
+
 sentiment-analysis/
-├── data/
-│   ├── raw/
-│   ├── processed/
-├── notebooks/
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_extraction.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   ├── visualization.py
-├── tests/
-├── README.md
-├── requirements.txt
-├── setup.py
+
+├── data/                                                                                                                    
+│   ├── raw/                                                                                                                 
+│   ├── processed/                                                                                                           
+├── notebooks/                                                                                                               
+├── src/                                                                                                                     
+│   ├── data_preprocessing.py                                                                                                
+│   ├── feature_extraction.py                                                                                                
+│   ├── model_training.py                                                                                                    
+│   ├── model_evaluation.py                                                                                                  
+│   ├── visualization.py                                                                                                     
+├── tests/                                                                                                                   
+├── README.md                                                                                                                
+├── requirements.txt                                                                                                         
+├── setup.py                                                                                                                 
 data/: Contains raw and processed datasets.
 notebooks/: Jupyter notebooks for exploratory data analysis (EDA) and prototyping.
 src/: Source code for various stages of the sentiment analysis pipeline.
