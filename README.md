@@ -4,18 +4,16 @@ sentiment analysis tool that can analyze the sentiment (positive, negative, or n
 **Overview**                                                                                                                 
 This project aims to perform sentiment analysis on text data, leveraging various machine learning techniques to classify the sentiments expressed in the text as positive, negative, or neutral. Sentiment analysis is a powerful tool for understanding public opinion, brand perception, and customer feedback across various domains such as social media, product reviews, and more.                                                                                                                        
 
-**Features**
+**Features**                                                                                                                 
 Data Preprocessing: Cleaning and preparing text data for analysis.
 Feature Extraction: Transforming text data into numerical features using techniques like TF-IDF or word embeddings.
 Model Training: Training machine learning models (e.g., Logistic Regression, SVM, Naive Bayes) to classify sentiments.
 Model Evaluation: Evaluating the performance of trained models using metrics like accuracy, precision, recall, and F1 score.
 Visualization: Visualizing the results and performance metrics.\
 
-**Directory Structure**
+**Directory Structure**                                                                                                      
 arduino
-
 Copy code
-
 sentiment-analysis/
 
 ├── data/                                                                                                                    
