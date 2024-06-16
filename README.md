@@ -1,8 +1,8 @@
 # Sentiment-Analysis-project
-sentiment analysis tool that can analyze the sentiment (positive, negative, or neutral) of text data, such as social media posts or reviews of Restaurant reviews.
-##Sentiment Analysis Project
-**Overview**
-This project aims to perform sentiment analysis on text data, leveraging various machine learning techniques to classify the sentiments expressed in the text as positive, negative, or neutral. Sentiment analysis is a powerful tool for understanding public opinion, brand perception, and customer feedback across various domains such as social media, product reviews, and more.
+sentiment analysis tool that can analyze the sentiment (positive, negative, or neutral) of text data, such as social media posts or reviews of Restaurant reviews.                                                                                      
+##Sentiment Analysis Project                                                                                                 
+**Overview**                                                                                                                 
+This project aims to perform sentiment analysis on text data, leveraging various machine learning techniques to classify the sentiments expressed in the text as positive, negative, or neutral. Sentiment analysis is a powerful tool for understanding public opinion, brand perception, and customer feedback across various domains such as social media, product reviews, and more.                                                                                                                        
 
 **Features**
 Data Preprocessing: Cleaning and preparing text data for analysis.
