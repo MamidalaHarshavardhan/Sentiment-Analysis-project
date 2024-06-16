@@ -16,17 +16,17 @@ arduino
 Copy code
 sentiment-analysis/
 
-├── data/                                                                                                                    
+├── data_set/                                                                                                                
 │   ├── raw/                                                                                                                 
 │   ├── processed/                                                                                                           
 ├── notebooks/                                                                                                               
 ├── src/                                                                                                                     
-│   ├── data_preprocessing.py                                                                                                
-│   ├── feature_extraction.py                                                                                                
-│   ├── model_training.py                                                                                                    
-│   ├── model_evaluation.py                                                                                                  
-│   ├── visualization.py                                                                                                     
-├── tests/                                                                                                                   
+│   ├── data_preprocessing                                                                                                   
+│   ├── training_model                                                                                                       
+│   ├── accuracy,pression,recall                                                                                             
+│   ├── increase accuracy                                                                                                    
+│   ├── visualizaing data     
+|   |-- prediction/testing                                                                                                   
 ├── README.md                                                                                                                
 ├── requirements.txt                                                                                                         
 ├── setup.py                                                                                                                 
