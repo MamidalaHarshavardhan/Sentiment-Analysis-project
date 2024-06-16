@@ -32,15 +32,14 @@ sentiment-analysis/
 ├── README.md                                                                                                                
 ├── requirements.txt                                                                                                         
 ├── setup.py                                                                                                                 
-data/: Contains raw and processed datasets.
-notebooks/: Jupyter notebooks for exploratory data analysis (EDA) and prototyping.
-src/: Source code for various stages of the sentiment analysis pipeline.
-tests/: Unit tests for ensuring code quality and correctness.
-README.md: Project documentation.
-requirements.txt: List of dependencies required to run the project.
-setup.py: Script for setting up the project environment.
+data/: Contains raw and processed datasets.                                                                                  
+notebooks/: Jupyter notebooks for exploratory data analysis (EDA) and prototyping.                                           
+src/: Source code for various stages of the sentiment analysis pipeline.                                                     
+tests/: Unit tests for ensuring code quality and correctness.                                                          README.md: Project documentation.                                                                                            
+requirements.txt: List of dependencies required to run the project.                                                          
+setup.py: Script for setting up the project environment.                                                                     
 
-**Getting Started**
-Prerequisites
-Python 3.7 or higher
+**Getting Started**                                                                                                          
+Prerequisites                                                                                                                
+Python 3.7 or higher                                                                                                         
 pip (Python package installer)
